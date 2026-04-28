@@ -1,4 +1,4 @@
-# CODEX | Premium Web Experience
+# Flux | Premium Web Experience
 
 A high-end, responsive web application featuring a modern Dark Theme, glassmorphic UI, and seamless user authentication. This project demonstrates advanced front-end design techniques and secure integration with Firebase.
 
